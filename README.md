@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/21c6dbc1-aa5b-4383-9a35-a0ea2e57daea
     git clone https://github.com/nguyenthanhnhut5897/MacosAppDemo.git
     ```
 
-2. Open `MacosAppDemo.xcodeproj` or `MacosAppDemo.xcworkspace` in Xcode.
+2. Open `MacosAppDemo.xcodeproj` in Xcode.
 
 3. Build and run on macOS using the latest Xcode version.
 
